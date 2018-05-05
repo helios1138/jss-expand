@@ -12,6 +12,7 @@ export const propArray = {
   'border-right': true,
   'border-radius': true,
   'border-image': true,
+  'border-width': true,
   'box-shadow': true,
   flex: true,
   margin: true,
